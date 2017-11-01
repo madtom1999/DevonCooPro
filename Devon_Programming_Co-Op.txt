@@ -12,5 +12,6 @@ A co-operative non profit group to encourage programming and general IT technolo
 [[Devon Libraries]]
 [[Pi-Jams]]
 [[Code Clubs]]
+[[Lessons]]
 
 [[cooperation]]
