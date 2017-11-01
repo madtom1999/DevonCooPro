@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-01T11:16:32+00:00
+
+====== cooperation ======
+Created Wednesday 01 November 2017
+
+Experimenting using Zim Destkop Wiki and Git (hub) for cooperative development and version controls
