@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-01T12:53:07+00:00
+
+====== Document-Standards ======
+Created Wednesday 01 November 2017
+
+Just found that spaces in page names cause the Zim web server to error on those pages so please use '-' instead of spaces in document titles.

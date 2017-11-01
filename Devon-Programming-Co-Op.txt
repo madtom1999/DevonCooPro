@@ -2,8 +2,9 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-11-01T10:58:10+00:00
 
-====== Devon Programming Co-Op ======
+====== Devon-Programming-Co-Op ======
 Created Wednesday 01 November 2017
+[[Document-Standards]]
 
 Just a few thoughts on where this can go.
 
